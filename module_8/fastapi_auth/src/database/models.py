@@ -1,5 +1,4 @@
 from datetime import datetime
-
 from sqlalchemy import Column, Integer, String, Boolean, func, Table
 from sqlalchemy.orm import relationship, mapped_column, Mapped, DeclarativeBase
 from sqlalchemy.sql.schema import ForeignKey, PrimaryKeyConstraint, UniqueConstraint
