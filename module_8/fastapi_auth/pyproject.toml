@@ -30,6 +30,7 @@ passlib = "^1.7.4"
 python-jose = "^3.5.0"
 libgravatar = "^1.0.4"
 python-multipart = "^0.0.20"
+bcrypt = "^4.3.0"
 
 
 [tool.poetry.group.dev.dependencies]
